@@ -1,0 +1,26 @@
+html{
+    font-size:16px;
+}
+
+
+body {
+    background-color: #E8E7E3;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #190C06;
+}
+
+.card {
+    font-family: "Roboto Mono", monospace;
+    background-color: #ECB6C4;
+}
+
+.card h2 {
+    color: #ffffff;
+    font-size: 1.2rem;
+    background-color: #E10044;
+}

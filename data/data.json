@@ -1,0 +1,44 @@
+[
+{
+"id": 1,
+"nombre": "chino",
+"desc": "ES DEL LOBO JUJEÑO",
+"image":"assets/img_01.png"
+},
+{
+"id": 2,
+"nombre": "claudio",
+"desc": "EL MEJOR PROFE DO MONDO",
+"image":"assets/img_02.png"
+},
+{
+"id": 3,
+"nombre":"Juanito alcachofa" ,
+"desc": "hincha del mas grande de todo argentina River Platense",
+ "image":"assets/img_03.png"
+},
+{
+"id": 4,
+"nombre": "Ryna",
+"desc": "alcoholica pero buena muchacha",
+"image":"assets/img_04.png"
+},
+{
+"id": 5,
+"nombre": "juan",
+"desc": "programador",
+"image":"assets/img_05.png"
+},
+{
+"id": 6,
+"nombre": "LA PULGA RODRIGUEZ",
+"desc": "El profe de ingles hincha de boca",
+"image":"assets/img_06.png"
+},
+{
+"id": 7,
+"nombre": "LA PULGA RODRIGA",
+"desc": "LA profe de ingles hincha de river",
+"image":"assets/img_06.png"
+}
+]
